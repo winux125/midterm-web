@@ -1,0 +1,111 @@
+.product {
+  background: #ffffff;
+  border: 1px solid #e2d8cf;
+  position: relative;
+}
+
+.product img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.product-body {
+  padding: 1rem;
+}
+
+.product-body h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.25rem;
+}
+
+.price {
+  font-weight: bold;
+  color: #b5485d;
+}
+
+.badge-top {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #b5485d;
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+}
+
+.btn-main {
+  background: #b5485d;
+  border: 1px solid #b5485d;
+  color: #ffffff;
+  border-radius: 0;
+}
+
+.btn-main:hover {
+  background: #8f3547;
+  color: #ffffff;
+}
+
+.section {
+  margin-bottom: 3.5rem;
+}
+
+.section h2 {
+  margin-bottom: 1.25rem;
+}
+
+.steps {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.steps li {
+  flex: 1;
+  background: #ffffff;
+  border: 1px solid #e2d8cf;
+  padding: 1rem;
+  list-style: none;
+}
+
+.steps strong {
+  display: block;
+  color: #b5485d;
+}
+
+.table-wrap {
+  background: #ffffff;
+}
+
+#options-table th {
+  background: #2e2420;
+  color: #ffffff;
+  font-weight: normal;
+}
+
+.team-member img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+}
+
+form label {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+form .form-control,
+form .form-select {
+  border-radius: 0;
+}
+
+.contact-box {
+  background: #ffffff;
+  border: 1px solid #e2d8cf;
+  padding: 1.5rem;
+}
+
+.map-frame {
+  width: 100%;
+  height: 300px;
+  border: 0;
+}
