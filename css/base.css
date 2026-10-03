@@ -1,0 +1,36 @@
+body {
+  background: #faf6f1;
+  color: #2e2420;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: normal;
+}
+
+a {
+  color: #b5485d;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+#main {
+  min-height: 60vh;
+}
+
+.page-title {
+  padding: 3rem 0 1.5rem;
+  border-bottom: 1px solid #e2d8cf;
+  margin-bottom: 2rem;
+}
+
+.muted {
+  color: #6e625b;
+}
