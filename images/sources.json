@@ -1,0 +1,83 @@
+{
+  "photos": [
+    {
+      "file": "images/bakers-working-in-the-kitchen.jpg",
+      "source": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=600&h=380&q=80"
+    },
+    {
+      "file": "images/napoleon-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/chocolate-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/berry-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/caramel-mousse-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1542826438-bd32f43d626f?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/strawberry-cupcake.jpg",
+      "source": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/chocolate-cupcake.jpg",
+      "source": "https://images.unsplash.com/photo-1550617931-e17a7b70dce2?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/mint-chocolate-cupcake.jpg",
+      "source": "https://images.unsplash.com/photo-1587668178277-295251f900ce?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/meringue-tart.jpg",
+      "source": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/chocolate-chip-cookies.jpg",
+      "source": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/butter-croissant.jpg",
+      "source": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=600&h=440&q=80"
+    },
+    {
+      "file": "images/rainbow-layer-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "file": "images/berry-wedding-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "file": "images/chocolate-ombre-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "file": "images/pink-drip-cake.jpg",
+      "source": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "file": "images/pastries-on-display-in-a-bakery.jpg",
+      "source": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?auto=format&fit=crop&w=1200&h=500&q=80"
+    },
+    {
+      "file": "images/pink-custom-cake-with-drip.jpg",
+      "source": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?auto=format&fit=crop&w=600&h=380&q=80"
+    }
+  ],
+  "map": {
+    "file": "images/location-map.png",
+    "source": "https://api.openstreetmap.org/api/0.6/map?bbox=71.410,51.087,71.425,51.095",
+    "data_file": "images/location-map.osm",
+    "latitude": 51.0908607,
+    "longitude": 71.4184149,
+    "poi": "https://www.openstreetmap.org/node/10575843769",
+    "address_source": "https://astanait.edu.kz/en/contacts",
+    "attribution": "(c) OpenStreetMap contributors",
+    "render": "Local map image rendered from downloaded building footprints, roads and green areas."
+  }
+}

@@ -29,6 +29,14 @@ The structure is the same as in Task 5 of Assignment 1.
 - Media queries for tablet (992px) and mobile (576px)
 - Bootstrap 5 grid and utility classes
 
+## Local assets and offline use
+
+Open `index.html` directly in a browser. All photos are stored in `images/`, and Bootstrap 5.3.3 is stored in `css/bootstrap.min.css`. The pages do not download styles or photos from external servers.
+
+The Contact page uses `map.html` to display a local, static map of Astana IT University at EXPO, Block C1. The image is rendered from downloaded OpenStreetMap building footprints, roads and green areas, with the marker at the university's OpenStreetMap point. The source data is stored in `images/location-map.osm`. The map does not support zooming or panning. OpenStreetMap attribution is displayed inside the frame.
+
+Original photo URLs and map coordinates are recorded in `images/sources.json`. Social links and the map attribution link require internet only when followed. The forms still require a backend to send messages.
+
 ## Authors
 
 - Baubek Serikbay (winux125)
